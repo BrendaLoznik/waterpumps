@@ -13,7 +13,7 @@ This repo contains my EDA, data cleaning, feature selection and modelling work f
 ## Medium experiments
 - [Missing data](https://github.com/BrendaLoznik/waterpumps/blob/main/2B.%20Dealing%20with%20missing%20data.ipynb): How whould you impute your missing data?
 - [Feature selection](https://github.com/BrendaLoznik/waterpumps/blob/main/2C.%20Feature%20selection%20experiments.ipynb): Dealing with multicollinearity
-- [Modelling experiments] (https://github.com/BrendaLoznik/waterpumps/blob/main/3B.%20Modelling%20experiments.ipynb): Stacking specialized models
+- [Modelling experiments](https://github.com/BrendaLoznik/waterpumps/blob/main/3B.%20Modelling%20experiments.ipynb): Stacking specialized models
 
 
 ![Screenshot](submission.png)
