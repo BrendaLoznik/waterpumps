@@ -5,18 +5,15 @@ A smart understanding of which waterpoints will fail can improve maintenance ope
 
 This repo contains my EDA, data cleaning, feature selection and modelling work for this DrivenData competition where I currently hold a top 4% score (0.8235). You can also find some additional experiments I performed for a set of Medium articles I wrote on this competition.
 
-- [a link](https://github.com/BrendaLoznik/waterpumps/blob/main/1.%20EDA.ipynb)
+## Competition files
+- [EDA](https://github.com/BrendaLoznik/waterpumps/blob/main/1.%20EDA.ipynb): Explore your data using data quality reports and visualization
+- [Data cleaning & Feature selection] (https://github.com/BrendaLoznik/waterpumps/blob/main/2.%20Data%20cleaning%20%26%20Feature%20engineering.ipynb): Which features did I include in my model?
+- [Modelling](https://github.com/BrendaLoznik/waterpumps/blob/main/3.%20Modelling.ipynb): from baseline models to ensembles
 
-## ADVENTURE WORKS POWER BI SALES REPORT Demand
-
-In preparation for my DA-100 exam, I retook the Power BI course from Maven Analytics on Udemy. Less than a year ago, I created a dynamic dashboard in Excel. In comparison to some of the formulas I wrote then to make the dashboard perform the way I needed it, I can say that Power BI and Dax are an absolute delight. 
-
-
-
-  - Created a Sales Report in Power BI giving detailed insights on best-selling products and customers
-  - Imported data from Excel and used Power Query to transform the data
-  - Created a data model in Power BI and used DAX to create calculated columns and measures
-  - Improved user experience by applying conditional formatting, drillthrough filters and visual interactions
+## Medium experiments
+- [Missing data](https://github.com/BrendaLoznik/waterpumps/blob/main/2B.%20Dealing%20with%20missing%20data.ipynb): How whould you impute your missing data?
+- [Feature selection] (https://github.com/BrendaLoznik/waterpumps/blob/main/2C.%20Feature%20selection%20experiments.ipynb): Dealing with multicollinearity
+- [Modelling experiments] (https://github.com/BrendaLoznik/waterpumps/blob/main/3B.%20Modelling%20experiments.ipynb): Stacking specialized models
 
 
-![Screenshot](execsum.png)
+![Screenshot](submission.png)
