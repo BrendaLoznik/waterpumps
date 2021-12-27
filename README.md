@@ -8,7 +8,7 @@ This repo contains my EDA, data cleaning, feature selection and modelling work f
 ## Competition files
 - [EDA](https://github.com/BrendaLoznik/waterpumps/blob/main/1.%20EDA.ipynb): Explore your data using data quality reports and visualization
 - [Data cleaning & Feature selection](https://github.com/BrendaLoznik/waterpumps/blob/main/2.%20Data%20cleaning%20%26%20Feature%20engineering.ipynb): Which features did I include in my model?
-- [Modelling](https://github.com/BrendaLoznik/waterpumps/blob/main/3.%20Modelling.ipynb): from baseline models to ensembles
+- [Modelling](https://github.com/BrendaLoznik/waterpumps/blob/main/3.%20Modelling.ipynb): From baseline models to ensembles
 
 ## Medium experiments
 - [Missing data](https://github.com/BrendaLoznik/waterpumps/blob/main/2B.%20Dealing%20with%20missing%20data.ipynb): How should you impute your missing data?
