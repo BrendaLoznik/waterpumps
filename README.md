@@ -17,3 +17,4 @@ This repo contains my EDA, data cleaning, feature selection and modelling work f
 
 
 ![Screenshot](submission.png)
+![Screenshot](functional2.png)
